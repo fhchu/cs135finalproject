@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+save.dat
+high scores.dat
